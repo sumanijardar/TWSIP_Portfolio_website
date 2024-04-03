@@ -1,0 +1,212 @@
+*
+{
+  font-family: "Madimi One", sans-serif;
+  color: white;
+ 
+  
+}
+.btn {
+  background-color: #9d4edd;
+}
+.btn:hover
+{
+  background-color: #520b8b;
+}
+.e
+{
+    width: 50px;
+    
+}
+.gifn
+{
+    padding-left: 50px;
+    padding-top: 100px;
+}
+/*Second*/
+
+.img3
+{
+    width: 80px;
+    
+}
+.csvtu
+{
+    width: 150px;
+}
+
+
+/*Experiences*/
+
+.new
+{
+    height: 500px;
+    background-color: #171c28;
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 2px rgb(85, 83, 83);
+
+}
+.try{
+    height: 150px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.line
+{
+    text-align: center;
+    padding: 30px;
+}
+
+.line1
+{
+    text-align: center;
+    padding-top:60px;
+}
+.line2
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.fb
+{
+  height: 100px; width: 100px;
+  color: #ffffff;
+  margin-left: 150px;
+
+ 
+}
+.qo
+{
+  height: 100px; width: 100px;
+  color: #ffffff;
+  margin-left: 170px;
+ 
+}
+.air
+{
+    height: 100px; width: 100px;
+    color: #ffffff;
+  margin-left: 180px;
+   
+  }
+
+  /*Archivement*/
+
+  .division
+  {
+    background-color: #40444d;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+  }
+  .division:hover
+  {
+    box-shadow: 0px 0px 10px 8px white;
+   
+  }
+  
+  /*Open Sources*/
+
+
+.react:hover
+{
+background-color: #51107c;
+box-shadow: 0px 0px 10px 8px white;
+}
+
+
+/* Achievenments*/
+.division
+{
+    padding-top: 100px;
+    border-radius: 10px;
+}
+.google
+{
+    margin-left: 85px;  
+}
+
+
+.button
+{
+  height: 35px; width: 150px;
+  background-color: blueviolet;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 7px;
+  margin-left: 40px;
+
+}
+.button:hover
+{
+  background-color: #51107c;
+  box-shadow:0px 0px 0px 2px #171c28;
+}
+
+.butt
+{
+  height: 35px; width: 250px;
+  background-color: blueviolet;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 7px;
+  margin-left: 80px;
+}
+.butt:hover
+{
+  background-color: #51107c;
+  box-shadow:0px 0px 0px 2px #171c28;  
+}
+
+/*Blogs*/
+
+.blog
+{
+    padding: 30px;
+    box-shadow: 0px 0px 10px 8px white;
+}
+
+/* Talks*/
+
+.seven1
+{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color:#da627d ;
+
+  
+}
+
+
+
+
+/*contact us*/
+
+.rounded-circle
+{
+  margin-top: 50px;
+}
+
+
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
